@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sending Fragment to Activity Application</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="my_fragment">My Fragment</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="send_data">Send Data</string>
+</resources>
